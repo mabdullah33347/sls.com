@@ -1,0 +1,1521 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="Smart Land Survey" content="Smart Land Survey is provided to our respected clients with efficient, cost-effective and reliable engineering and mapping services. Also provide the best solutions from idea to delivery and with every stage in between. Our surveyor and mapping professionals are strategically positioned both local and global level in all around the Pakistan." >
+     <meta name="keywords" content="land survey , SURVEYING, civil engineering , land surveyor skills ,land surveyor jobs, smart survey ,drone survey,gis system,engineering drawing">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <title>Smart Land Survey</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    
+    <nav class="nav">
+        <div class="container">
+           
+            <div class="logo">
+                <img class="lg" src="./SLS LOGO.png"  alt="LOGO">
+               
+               
+               
+            </div>
+            <div class="main_list" id="mainListDiv">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#mission"  >Vision</a></li>
+                    <li><a href="#serv1" >Services</a></li>
+                    <li><a href="#client" >Training</a></li>
+                    <li><a href="#footer" >Contact</a></li>
+                </ul>
+            </div>
+            <div class="media_button">
+                <button class="main_media_button" id="mediaButton">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+        
+    <section class="home"></section>
+    <section class="back1">
+        <div class="scroll1" > Our professional land surveyors, GIS specialists, and field staffs leverage with most advanced technologies and time tested methods to analyze, interpretation and acquisition of data for unparalleled accuracy, reliability and completeness with quality of work. We are working joint adventure with SCESS (Smart Creative Engineering Solution and Services)  </div>
+    </section>
+    <section id="home" class="text-gray-600 body-font changebg">
+        
+        <div class="sociallinks">
+            <a class="aclass" href="#">
+                <i class="fa fa-facebook"></i>
+            </a>
+            <a class="aclass" href="#">
+                <i class="fa fa-twitter"></i>
+            </a>
+            <a class="aclass" href="#">
+                <i class="fa fa-youtube"></i>
+            </a>
+            <a class="aclass" href="#">
+                <i class="fa fa-instagram"></i>
+            </a>
+        </div>
+        </ul>
+        <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+            <div
+                class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+                <h1 id="smarthead" class="animate-charcter title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Smart  Land
+                    Survey
+                   
+                </h1>
+                <p class="small-para">|Smart  surveys  for  a  smarter  world|</p>
+                <div class="flex justify-center">
+                  <!--<button
+                        class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>-->
+                   
+               <!-- <div class="mainded">
+                    <img src=".//Capture (1).PNG" alt="">
+                    <p>Dedicated To <br>Col Arif Mehmood Alam
+                        (Shaheed)  </p>
+                </div>-->
+                </div>
+            </div>
+           
+            
+        </div>
+    </section>
+    <section>
+        <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+               
+            <img  id="fimg" class="object-cover object-center rounded" alt="hero"
+                  src="Smart Labd Survey.png">
+         
+                  <div class="mainded">
+                      <img src=".//Capture (1).PNG" alt="">
+                      <p class="=dpara">Dedicated To <br>Col Arif Mehmood Alam 
+                          (Shaheed)  </p>
+                  </div>
+          </div>
+          
+      </div>
+    </section>
+    <section id="mission" class="text-gray-600 body-font">
+      <div class="container px-5 py-24 mx-auto flex flex-wrap">
+      <!--     <h2 id="vision" class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5">OUR VISION</h2>-->
+          <div id="vms" class="md:w-3/5 md:pl-6">
+           
+           
+            <p  class="leading-relaxed text-base"> <h1 class="leading-relaxed1">OUR VISION</h1>Our vision of land survey services is different than the most. We have experienced and creative professionals, highly skilled staff and the most modern technology to provide surveys that give our clients assurance with cost effective solution for our client. We believe that our role is to be your partner, not just a vendor. You can trust our surveyors and engineers to deliver accurate data and reports.</p>
+           
+           
+            
+            
+          </div>
+          
+        </div>
+      <div class="container px-5 py-24 mx-auto flex flex-wrap">
+           <!--    <h2 id="vision" class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5">OUR MISSION</h2>-->
+            <div id="vms" class="md:w-3/5 md:pl-6">
+             
+             
+              <p  class="leading-relaxed text-base"> <h1 class="leading-relaxed1">OUR MISSION</h1> Our professional land surveyors, GIS specialists, and field staffs leverage with most advanced technologies and time tested methods to analyze, interpretation and acquisition of data for unparalleled accuracy, reliability and completeness with quality of work. We are working joint adventure with SCESS (Smart Creative Engineering Solution and Services).</p>
+             
+             
+              
+              
+            </div>
+            
+          </div>
+      </section>
+    <section id="transservices" class="text-gray-600 body-font reveal">
+        <div class="container px-5 py-24 mx-auto">
+            <div class="flex flex-wrap w-full mb-20">
+                <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
+                    <h1 id="serv1" class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Our Services</h1>
+                    <div class="h-1 w-20 bg-indigo-500 rounded"></div>
+                </div>
+                <p id="cbox" class="lg:w-1/2 w-full leading-relaxed text-gray-500 reveal"> we are providing multipe services in this domain our services are word class and are a result of years of experience and hard work
+                </p>
+            </div>
+           
+            <div class="flex flex-wrap -m-4">
+                <div id="services " class="xl:w-1/4 md:w-1/2 p-4 reveal">
+                    <div id="serve" class="bg-gray-100 p-6 rounded-lg">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            GIS SERVICES</h3>
+                        <img class="h-40 rounded w-full object-cover object-center mb-6"
+                            src=".//sls3.PNG"
+                            alt="content">
+                    <!--    <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            GIS SERVICES</h3>-->
+                        <h1 id="text">Environmental monitoring and Aerial Mapping, Data visualization and management, Thematic mapping, 3D spatial modelling, Geo-database design, Cartography & map template design, GPS / field deployment, Field Surveys / GPS data collection and processing, Advanced image analysis, GIS data format conversion to engineering analysis software, GIS / CAD integration and Consultancy.</h1>
+    
+                    </div>
+                </div>
+               
+                <div id="services " class="xl:w-1/4 md:w-1/2 p-4 reveal">
+                    <div id="serve" class="bg-gray-100 p-6 rounded-lg">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            LAND SURVEYING</h3>
+                        <img class="h-40 rounded w-full object-cover object-center mb-6"
+                        
+                            src=".//sls 1 - Copy.PNG"
+                            alt="content">
+                      <!--  <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            LAND SURVEYING</h3>-->
+                        <h1 id="text6">Topographical Survey, GPS/GNSS Survey (Real Time Data Collection), As-Built Survey, Control Survey, Road, building survey, Property & Boundary Survey, Construction Layout Survey, Water & Gas pipe line survey</h1>
+    
+                    </div>
+                </div>
+                <div id="services " class="xl:w-1/4 md:w-1/2 p-4 reveal">
+                    <div id="serve" class="bg-gray-100 p-6 rounded-lg">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            DRONE SURVEY</h3>
+                        <img class="h-40 rounded w-full object-cover object-center mb-6"
+                            src=".//sls2.PNG"
+                            alt="content">
+                      <!--  <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            DRONE SURVEY</h3>-->
+                        <h1 id="text3">Drone mapping Services,UAV (Unmanned Aerial Vehicle), Parcel Mapping, Constraints mapping, Data Classification mapping, 3D Modeling</h1>
+
+                    </div>
+                </div>
+                <div id="services " class="xl:w-1/4 md:w-1/2 p-4 reveal">
+                    <div id="serve" class="bg-gray-100 p-6 rounded-lg">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            TOWN PLANNING & LANDSCAPING</h3>
+                        <img class="h-40 rounded w-full object-cover object-center mb-6"
+                            src=".//sls4.PNG"
+                            alt="content">
+                    <!--    <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            TOWN PLANNING & LANDSCAPING</h3>-->
+                        <h1 id="text4">
+                            Town Planning, Master Plan Design, Land Scalping (2D & 3D), Park & Sport Complex Design, Housing Society Design and 2D & 3D House Design and modeling.
+                            </h1>
+
+                    </div>
+                </div>
+                <div id="services" class="xl:w-1/4 md:w-1/2 p-4 reveal">
+                    <div id="serve" class="bg-gray-100 p-6 rounded-lg">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            PROFESSIONAL COURES & TRAINING </h3>
+                        <img class="h-40 rounded w-full object-cover object-center mb-6"
+                            src=".//sls6.PNG"
+                            alt="content">
+                       
+                        <h1 id="text01">Advance Survey, Engineering and Laser Level, Advance Total Station, Advance GPS /GNSS, Topographical Mapping, Road Alignment with cost estimation, AutoCAD 2D &3D, Civil 3D, Revit, Sketch up and Global Mapper.</h1>
+
+                    </div>
+                </div>
+                
+                
+           
+                <div id="services " class="xl:w-1/4 md:w-1/2 p-4 reveal">
+                    <div id="serve" class="bg-gray-100 p-6 rounded-lg">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            ENGINEERING DRAWING </h3>
+                        <img class="h-40 rounded w-full object-cover object-center mb-6"
+                            src=".//sls5.PNG"
+                            alt="content">
+                     <!--   <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            ENGINEERING DRAWING </h3>-->
+                        <h1 id="text">Architectural, Structural and Construction drawing, As built and Elevation Drawing, Civil Engineering 2D & 3D Drawing, Electrical, Mechanical & Plumbing Drawings, Master Plan Design and as built drawing.</h1>
+
+                    </div>
+                </div>
+              
+               
+         <!--     <div id="services " class="xl:w-1/4 md:w-1/2 p-4 reveal">
+                    <div id="serve" class="bg-gray-100 p-6 rounded-lg">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            GIS SERVICES</h3>
+                        <img class="h-40 rounded w-full object-cover object-center mb-6"
+                            src=".//sls3.PNG"
+                            alt="content">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            GIS SERVICES</h3>
+                        <h1 id="text">Environmental monitoring and Aerial Mapping, Data visualization and management, Thematic mapping, 3D spatial modelling, Geo-database design, Cartography & map template design, GPS / field deployment, Field Surveys / GPS data collection and processing, Advanced image analysis, GIS data format conversion to engineering analysis software, GIS / CAD integration and Consultancy.</h1>
+
+                    </div>
+                </div>
+               
+                <div id="services " class="xl:w-1/4 md:w-1/2 p-4 reveal">
+                    <div id="serve" class="bg-gray-100 p-6 rounded-lg">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            LAND SURVEYING</h3>
+                        <img class="h-40 rounded w-full object-cover object-center mb-6"
+                        
+                            src=".//sls 1 - Copy.PNG"
+                            alt="content">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            LAND SURVEYING</h3>
+                        <h1 id="text6">Topographical Survey, GPS/GNSS Survey (Real Time Data Collection), As-Built Survey, Control Survey, Road, building survey, Property & Boundary Survey, Construction Layout Survey, Water & Gas pipe line survey</h1>
+
+                    </div>
+                </div>
+               <div id="services" class="xl:w-1/4 md:w-1/2 p-4 reveal">
+                    <div id="serve" class="bg-gray-100 p-6 rounded-lg">
+                        <img class="h-40 rounded w-full object-cover object-center mb-6"
+                            src="https://images.unsplash.com/photo-1517089596392-fb9a9033e05b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+                            alt="content">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            Geotechnical Investigation</h3>
+                        <h1>e quis delectus, nihil ab deleniti est distinctio earum, suscipit adipisci deserunt a. Ex
+                            doloremque dolores odit a aperiam!</h1>
+
+                    </div>
+                    
+                </div>
+                <div id="services" class="xl:w-1/4 md:w-1/2 p-4 reveal">
+                    <div id="serve" class="bg-gray-100 p-6 rounded-lg">
+                        <img class="h-40 rounded w-full object-cover object-center mb-6"
+                            src="https://images.unsplash.com/photo-1517089596392-fb9a9033e05b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+                            alt="content">
+                        <h3 id="inserve" class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                            Geotechnical Investigation</h3>
+                        <h1>e quis delectus, nihil ab deleniti est distinctio earum, suscipit adipisci deserunt a. Ex
+                            doloremque dolores odit a aperiam!</h1>
+
+                    </div>
+                    
+                </div>-->
+            </div>
+        </div>
+    </section>
+    <section id="association" class="associates">
+        <div class="container px-5 py-24 mx-auto">
+            <div class="flex flex-wrap w-full mb-20">
+                <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
+                    <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Our Projects</h1>
+                    <div class="h-1 w-20 bg-indigo-500 rounded"></div>
+                </div>
+                <p id="cbox" class="lg:w-1/2 w-full leading-relaxed text-gray-500">We have experience with multiple projects in this domain our projects are built around creative ideas with the purpose to make something better for the world</p>
+            </div>
+            <div class="scroll">
+                <div class="element">
+                    <img src=".//PRJ8.jpg"alt="">
+                </div>
+                <div class="element">
+                    <img src=".//PRJ01.jpg"
+                        alt="">
+
+                </div>
+                <div class="element">
+                    <img src=".//PRJ2.jpg"
+                        alt="">
+
+                </div>
+                <div class="element">
+                    <img src="./PRJ3.jpg"
+                        alt="">
+
+                </div>
+                <div class="element">
+                    <img src=".//PRJ4.gif"
+                        alt="">
+
+                </div>
+                <div class="element">
+                    <img src=".//PRJ5.jpg"
+                        alt="">
+
+                </div>
+                <div class="element">
+                    <img src=".//PRJ6.gif"
+                        alt="">
+
+                </div>
+                <div class="element">
+                    <img src=".//PRJ7.jpg"
+                        alt="">
+
+                </div>
+            </div>
+    </section>
+    /<!--                projects                  -->
+    <section id="client" class="associates">
+        <div class="container px-5 py-24 mx-auto">
+            <div class="flex flex-wrap w-full mb-20">
+                <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
+                    <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Training and actual image</h1>
+                    <div class="h-1 w-20 bg-indigo-500 rounded"></div>
+                </div>
+                <p id="cbox" class="lg:w-1/2 w-full leading-relaxed text-gray-500">Our professionals provide world class training based on their years of experience and provide a great opportunity to students to excel in their career </p>
+            </div>
+            <div class="scroll">
+                <div class="element">
+                    <img src="./001.jpg" alt="">
+
+                </div>
+                <div class="element">
+                    <img src="./01.jpg" alt="">
+
+                </div>
+                <div class="element">
+                    <img src="./02.jpg" alt="">
+
+                </div>
+                <div class="element">
+                    <img src="./1.jpg" alt="">
+
+                </div>
+                <div class="element">
+                    <img src="./2.jpg" alt="">
+
+                </div>
+                <div class="element">
+                    <img src="./3.jpg" alt="">
+
+                </div>
+                <div class="element">
+                    <img src="./4.jpg" alt="">
+
+                </div>
+                <div class="element">
+                    <img src="./5.jpg" alt="">
+
+                </div>
+            </div>
+    </section>
+   
+  <!--  <section id="dedicated" class="text-gray-600 body-font">
+        <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
+          <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero" src=".//Capture (1).PNG">
+          <div class="text-center lg:w-2/3 w-full">
+            <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Dedicated To</h1>
+            <p class="mb-8 leading-relaxed">Col Arif Mehmood Alam
+                (Shaheed)</p>
+           
+          </div>
+        </div>
+      </section>-->
+    <footer id="footer" class="text-gray-600 body-font">
+        <div class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
+          <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
+           
+            <span class="ml-3 text-xl">Smart Land Survey</span>
+        <!-- <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
+                <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+              </svg>
+              <span class="ml-3 text-xl">SLS</span>
+            </a>-->
+        
+          </div>
+          <div class="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center">
+            
+            <div id="vms1" class="md:w-3/5 md:pl-6">
+           
+                <p  class="leading-relaxed text-base">Smart Land Survey is provided our respected clients with efficient, cost-effective and reliable engineering and mapping services. Also provide the best solutions from idea to delivery and with every stage in between. Our surveyor and mapping professionals are strategically positioned both local and global level in all around the Pakistan.</p>
+                
+                <div class=" contactNumber1">
+                    
+                    <p class="whats1"> <img src="data:image/jpeg;base64,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" alt="">
+                        +923125018185</p>
+                    <p class="phone1"><img src="data:image/jpeg;base64,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" alt="">
+                        +923204499607</p>
+                        
+                        <p class="wcolor">ADDRESS:   <br> <span> <br>
+                            H-13 |Islamabad, Islamabad Capital Territory
+                        </span> </p>
+                        <p><br></p>
+                        
+                        
+                </div>
+              </div>
+              
+            
+        <!--    <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+              <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
+              <nav class="list-none mb-10">
+                <li>
+                  <a class="text-gray-600 hover:text-gray-800">First Link</a>
+                </li>
+                <li>
+                  <a class="text-gray-600 hover:text-gray-800">Second Link</a>
+                </li>
+                <li>
+                  <a class="text-gray-600 hover:text-gray-800">Third Link</a>
+                </li>
+                <li>
+                  <a class="text-gray-600 hover:text-gray-800">Fourth Link</a>
+                </li>
+              </nav>
+            </div>-->
+           <!-- <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+              <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
+              <nav class="list-none mb-10">
+                <li>
+                  <a class="text-gray-600 hover:text-gray-800">First Link</a>
+                </li>
+                <li>
+                  <a class="text-gray-600 hover:text-gray-800">Second Link</a>
+                </li>
+                <li>
+                  <a class="text-gray-600 hover:text-gray-800">Third Link</a>
+                </li>
+                <li>
+                  <a class="text-gray-600 hover:text-gray-800">Fourth Link</a>
+                </li>
+              </nav>
+            </div>-->
+          </div>
+        </div>
+        <div class="bg-gray-100">
+          <div class="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
+            <p class="text-gray-500 text-sm text-center sm:text-left">© All rights reserved | SLS —
+             <!-- <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" class="text-gray-600 ml-1" target="_blank">@knyttneve</a>
+            </p>
+            <span class="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
+              <a class="text-gray-500">
+                <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                  <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
+                </svg>
+              </a>
+              <a class="ml-3 text-gray-500">
+                <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                  <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
+                </svg>
+              </a>
+              <a class="ml-3 text-gray-500">
+                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                  <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
+                  <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
+                </svg>
+              </a>
+              <a class="ml-3 text-gray-500">
+                <svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" class="w-5 h-5" viewBox="0 0 24 24">
+                  <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"></path>
+                  <circle cx="4" cy="4" r="2" stroke="none"></circle>
+                </svg>
+              </a>
+            </span>
+          </div>
+        </div>
+      </footer>
+     transitions  -->
+
+    <style>
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.4s;
+    font-family: -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol";
+}
+
+.container{
+    margin-left: 5%;
+    margin-right: 7%;
+}
+
+/* Navbar section */
+
+.nav{
+    width: 100%;
+    height: 65px;
+    position: fixed;
+    line-height: 65px;
+    text-align: center;
+    z-index: 999999;
+    background-color: #1a2350;
+    font-size: 25px;
+}
+
+.nav div.logo{
+    width: 180px;
+    height: 10px;
+    position: absolute;
+}
+
+.nav div.logo a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.8em;
+    text-transform: uppercase;
+}
+
+.nav div.logo a:hover {
+    color: #c0c0c0;
+}
+
+.nav div.main_list {
+    width: 600px;
+    height: 65px;
+    float: right;
+    position: relative;
+    right: 96px;
+}
+.small-para {
+    position: relative;
+    top: 5vh;
+    font-size: 34px;
+}
+.nav div.main_list ul{
+    width:100%;
+    height: 65px;
+    display: flex;
+    list-style: none;
+}
+
+.nav div.main_list ul li{
+    width: 120px;
+    height: 65px;
+    margin: auto 15px;
+}
+
+.nav div.main_list ul li a{
+    text-decoration: none;
+    color: #fff;
+    line-height: 65px;
+    text-transform: uppercase;
+}
+
+.nav div.main_list ul li a:hover{
+    color: #c0c0c0;
+}
+
+.nav div.media_button {
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    position: absolute;
+    right: 15px;
+    top: 12px;
+    display: none;
+}
+
+.nav div.media_button button.main_media_button {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;;
+    outline: 0;
+    border: none;
+    cursor: pointer;
+}
+
+.nav div.media_button button.main_media_button span{
+    width: 98%;
+    height: 1px;
+    display: block;
+    background-color: #fff;
+    margin-top: 9px;
+    margin-bottom: 10px;
+}
+
+.nav div.media_button button.main_media_button:hover span:nth-of-type(1){
+    transform: rotateY(180deg);
+    transition: all 0.5s;
+    background-color: #c0c0c0;
+}
+
+.nav div.media_button button.main_media_button:hover span:nth-of-type(2){
+    transform: rotateY(180deg);
+    transition: all 0.4s;
+    background-color: #c0c0c0;
+}
+
+.nav div.media_button button.main_media_button:hover span:nth-of-type(3){
+    transform: rotateY(180deg);
+    transition: all 0.3s;
+    background-color: #c0c0c0;
+}
+
+.nav div.media_button button.active span:nth-of-type(1) {
+    transform: rotate3d(0, 0, 1, 45deg);
+    position: absolute;
+    margin: 0;
+}
+
+.nav div.media_button button.active span:nth-of-type(2) {
+    display: none;
+}
+
+.nav div.media_button button.active span:nth-of-type(3) {
+    transform: rotate3d(0, 0, 1, -45deg);
+    position: absolute;
+    margin: 0;
+}
+
+.nav div.media_button button.active:hover span:nth-of-type(1) {
+    transform: rotate3d(0, 0, 1, 20deg);
+}
+
+.nav div.media_button button.active:hover span:nth-of-type(3) {
+    transform: rotate3d(0, 0, 1, -20deg);
+}
+
+/* Home section */
+
+.home{
+    width: 100%;
+    height: 10vh;
+   
+}
+
+/* Medai qurey section */
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    
+    .container{
+        margin: 0;
+    }
+    
+}
+
+
+
+
+@media screen and (max-width:768px) {
+    
+    .container{
+        margin: 0;
+    }
+    
+    .nav div.logo{
+        margin-left: 15px;
+    }
+    
+    .nav div.main_list{
+        width: 100%;
+        margin-top: 65px;
+        height: 0px;
+        overflow: hidden;
+    }
+    
+    .nav div.show_list{
+        height: 200px;
+    }
+    
+    .nav div.main_list ul{
+        flex-direction: column;
+        width: 100%;
+        height: 200px;
+        top: 80px;
+        right: 0;
+        left: 0;
+    }
+    
+    .nav div.main_list ul li{
+        width: 100%;
+        height: 40px;
+        background-color:rgba(0,0,255,0.8);
+    }
+    
+    .nav div.main_list ul li a{
+      text-align: center;
+        line-height: 40px;
+        width: 100%;
+        height: 40px;
+        display: table;
+    }
+    
+    .nav div.media_button{
+        display: block;
+    }
+}
+
+
+        html,body{
+          overflow-x: hidden;
+            max-width: 100%;
+          
+           
+        } 
+        .leading-relaxed1{
+            font-size: 35px;
+        }
+
+        .text-base {
+    font-size: 1.8rem;
+}
+.lg {
+    width: 70px;
+    height: 65px;
+}
+
+
+        .mr-5{
+            font-size: 20px;
+            font-weight: 700;
+        }
+        .mainded>img{
+            height: 170px;
+            width: 170px;
+           
+            z-index: 1000;
+        }
+        .mainded{
+            font-weight: 800;
+            opacity: 5;
+            position: relative;
+    top: -8vh;
+    right: -4vw;
+    
+            
+          
+        }
+       
+       
+        .fpara{
+            display: grid;
+            font-size: 25px;
+            
+            
+        }
+        .mainded>p {
+    text-align: center;
+    position: relative;
+    top: -9vh;
+    right: -6vw;
+}
+       .mr-5 {
+    font-size: 27px;
+    font-weight: 700;
+}
+
+
+        
+       .whats>img {
+    height: 36px;
+    width: 35px;
+    right: 10px;
+    top: 5px;
+    position: relative;
+}
+.phone>img {
+    height: 25px;
+    width: 32px;
+    top: 11px;
+    right: 2px;
+    position: relative;
+}
+.wcolor{
+    color: white;
+    border-top: 3px solid #ffbb00;
+    font-weight: 300;
+}
+  
+   
+       
+        .contactNumber>p{
+            display: flex;
+            justify-content: right;
+            
+           
+        }
+        .contactNumber{
+            display: flex;
+            flex-direction: column;
+            color: #ffbb00;
+            font-weight: 800;
+            justify-content: right;
+            position: relative;
+            right: 9px;
+           
+        }
+        .whats1>img {
+    height: 70px;
+    width: 75px;
+    right: 10px;
+    top: -14px;
+    position: relative;
+}
+.phone1{
+    position: relative;
+    right: 3vw;
+}
+.phone1>img {
+    height: 75px;
+    width: 73px;
+    top: -14px;
+    right: 2px;
+    position: relative;
+}
+  
+   
+       
+        .contactNumber1>p{
+            display: flex;
+            
+            justify-content: right;
+            padding: 20px;
+            position: relative;
+            top: 5vh;
+            right: 12vw;
+           
+            font-size: 28px;
+           
+        }
+        hr{
+            border-top: 3px solid red;
+            
+        }
+        .contactNumber1{
+            display: flex;
+            flex-direction: column;
+            flex-direction: row;
+            flex-wrap:wrap ;
+
+            color: #ffbb00;
+            font-weight: 800;
+           
+            position: relative;
+            right: -71px;
+            top: 10px;
+        }
+         .back1{
+           display: flex;
+            margin-top: 4px;
+        background-color: rgb(255 174 0);
+    height: 55px;
+   
+
+width: 100%;
+
+
+
+}
+#vms1{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+.ml-3 {
+    margin-left: .75rem;
+    color: rgb(255 174 0);
+    font-weight: 6500;
+    font-size: 24px;
+}
+#footer{
+    background-color:#1a2350;
+}
+.scroll1{
+   /* display: flex;
+    flex-direction: row;*/
+    white-space: nowrap;
+    color: black;
+    font-weight: 600;
+   margin-top: 5px;
+  
+    
+    height: 56px;
+    font-size: 30px;
+    transform: translateX(10%);
+    animation: flowing 60s linear infinite;
+  
+}
+
+@keyframes flowing {
+
+    from{
+        transform: translateX(10%);
+    }
+  to {
+    transform: translateX(-100%);
+  }
+}
+        html{
+            scroll-behavior: smooth;
+        }
+        #forb{
+            border-style: solid;
+            border-radius: 3px;
+            box-shadow: 9px 9px 11px;
+           
+        }
+        .sociallinks {
+            position: fixed;
+    z-index: 50;
+    display: flex;
+    flex-direction: column;
+    
+    margin-top: 11px;
+   
+    border-radius: 30px;
+    margin-left: 3px;
+    background: hsl(99, 54%, -100% ,0.5);;
+    
+
+        }
+
+        .aclass {
+            font-size: 30px;
+            padding: 5px;
+             font-weight: bold;
+            position: sticky;
+            transition: background-color;
+            border-radius: 30px;
+        }
+
+        .aclass:hover {
+            background-color: rgb(201, 152, 46);
+        }
+
+        .aclass:nth-child(1) {
+            color: rgb(48, 109, 221);
+        }
+
+        .aclass:nth-child(2) {
+            color: #1DA1F2;
+        }
+
+        .aclass:nth-child(3) {
+            color: #FF0000;
+        }
+
+        .aclass:nth-child(4) {
+            color: #405DE6;
+        }
+
+
+
+        a {
+            padding: 5px;
+            margin: 5px;
+            /*font-size: 40px;*/
+        }
+
+        #transservices {
+
+            position: relative;
+            z-index: 5;
+           
+            
+        }
+
+        /* }
+    #transservices::hover{
+        opacity: 0;
+    }*/
+
+        #smarthead {
+            color: #000000;
+            position: relative;
+            top: 3vh;
+            font-weight: 900;
+        font-size: 63px;
+            
+        }
+        .mainded>img {
+    position: relative;
+    right: -2vw;
+    top: -31px;
+}
+
+        .scroll {
+            display: grid;
+            gap: var(--size-3);
+            grid-auto-flow: column;
+            grid-auto-columns: 28%;
+            overflow-x: hidden;
+            overscroll-behavior-inline: contain;
+           
+
+
+        }
+        @keyframes move {
+            from{
+        transform: translateX(400%);
+    }
+  to {
+    transform: translateX(-750%);
+  }
+            
+        }
+
+        .element {
+            display: grid;
+            grid-template-rows: min-content;
+            gap: var(--size-10);
+            padding: var(--size-10);
+            background: var(--surface-2);
+            border-radius: var(--radius-2);
+            padding-left: 17px;
+            padding-bottom: 20px;
+            transform: translate-x(400%);
+            animation: move 15s linear infinite;
+            width: 101%;
+
+        }
+
+        .element>img {
+            inline-size: 100%;
+            aspect-ratio: 9/9;
+            object-fit: cover;
+            padding: auto;
+            border: solid;
+            border-width: 2px;
+            border-radius: 25px;
+            width: 100%;
+            height: 100%;
+
+        }
+
+        /* .scroll::before{
+    position: relative;
+    background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: #FFFFFF
+
+   }*/
+        #navbar {
+
+            color: rgb(238, 163, 0);
+            background-color: #1d375e;
+            border: solid;
+            border-width: 3px;
+            position: sticky;
+            top: 0px;
+            z-index: 20;
+            border-radius: 28px;
+            
+           
+
+        }
+
+        #inserve {
+            color: rgb(238, 163, 0);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 21px;
+    font-size: 21px;
+    text-align: center;
+    
+        }
+       
+
+        #serve {
+            background-color: #1d375e;
+            color: rgb(238, 163, 0);
+            border-top-left-radius: 28px;
+            box-shadow: 10px 11px 9px;
+          border-bottom-right-radius: 28px;
+         
+         
+        
+}
+
+#text3{
+    margin-bottom: 228px;
+   
+}
+
+#text6{
+    margin-bottom: 159px;
+}
+#text4{
+    margin-bottom: 172px;
+}
+#text{
+    margin-bottom: 20px;
+}
+
+#home {
+    color: #000000;
+    position: relative;
+    font-weight: bold;
+    font-size: larger;
+    height: 89vh;
+    margin-top: 8px;
+    transition: all 0.01s ease;
+}
+      
+       #home:before{
+            content:"";
+            background:url('.//home\ survey.webp') no-repeat center center/cover;
+            
+            
+          
+            position: absolute;
+           
+            height: 88%;
+            width: 105%;
+            
+            z-index: -1;
+            border: 3px solid rgb(0, 0, 0);
+           
+            margin-top: 8px;
+               
+        animation: change 100s infinite ease-in-out;    
+          animation-timing-function: linear;
+         transition-delay: 3s;
+       }
+           
+    
+        @keyframes change {
+            0%{
+                 background: url("./S71.jpg")no-repeat center center/cover;
+                 opacity: 1;
+                
+            }
+            50%{
+                background: url("./S1.jpeg")no-repeat center center/cover;
+              
+            }
+            25%{
+                background: url("./S2.jpeg")no-repeat center center/cover;
+             
+            }
+            75%{
+                background: url("./S3.jpeg")no-repeat center center/cover;
+               
+            }
+           100%{
+                background: url("./S4.jpeg")no-repeat center center/cover;
+            }
+            10%{
+                background: url("./S9.jpg")no-repeat center center/cover;   
+            }
+            20%{
+                background: url("./S6.jpeg")no-repeat center center/cover;   
+            }
+    
+        }
+        #fimg {
+    border: 3px solid black;
+    box-shadow: 4px 4px 5px;
+    transition: 5s;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    height: 37vh;
+    width: 300vh;
+    position: relative;
+    left: 60px;
+    top: -19px;
+}
+        .associates {
+            margin-top: 0px;
+
+        }
+
+        .headassociate {
+            display: flex;
+            padding: 35px;
+            margin: 15px, 20px;
+            font-size: 30px;
+            align-items: center;
+        }
+
+        nav {
+            position: sticky;
+            top: 0px;
+        }
+
+        /*------transitions-----------*/
+        .reveal {
+            position: relative;
+            transform: translateY(150px);
+            opacity: 0;
+            transition: all 1s ease;
+        }
+
+        .reveal.active {
+            transform: translateY(0px);
+            opacity: 1;
+        }
+        #vision{
+            text-decoration: underline ;
+            font-weight: bold;
+            font-size: 43px;
+            color: rgb(238, 163, 0);
+        }
+        #mission{
+            position: relative;
+            font-weight: bold;
+            color: #0e1118;
+           background-color:#1d375e;
+         
+           margin-top: -96px;
+           
+        }
+        #vms {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #282827;
+    border-radius: 15px;
+    box-shadow: 5px 4px 5px;
+    color: #ebebeb;
+    font-weight: 140;
+}
+     /*   #mission:before{
+            content:"";
+            background:url('.//testimonials-bg.jpg') no-repeat center center/cover ;
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            opacity: 0.43;
+            z-index: -1;
+           border-radius: 30px;
+        }*/
+        .lg\:w-2\/6 {
+    width: 25.333333%;
+}/* #dedicated:before{
+            content:"";
+            background:url('.//pngtree-hibiscus-jasmine-and-tulips-and-roses-frame-background-image_307690.jpg') no-repeat center center/cover ;
+            position: absolute;
+            height: 100%;
+            width: 100%;
+          
+            z-index: -1;
+           background-size: contain;
+           border-radius: 30px;
+           
+        }*/
+        .bg-gray-100{
+            background-color: #1d375e;
+          
+        }
+        #dedicated{
+         
+     
+         
+          position:relative;
+         
+    border: 3px solid rgb(0 12 54);
+    
+    border-radius: 30px;
+    margin-top: 8px;
+}
+.animate-charcter {
+    text-transform: uppercase;
+    background-image: linear-gradient( -225deg, #231557 0%, #10137a 29%, #ff1349 67%, #ffc107 100% );
+    background-size: auto auto;
+    background-clip: border-box;
+    background-size: 200% auto;
+    color: #fff;
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 3.5s linear infinite;
+    display: inline-block;
+    font-size: 1.9rem;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+} 
+.leading-relaxed{
+    color: #ebebeb;
+    font-weight: 140;
+}
+.leading-relaxed1 {
+    font-size: 35px;
+    font-weight: 700;
+}
+#smarthead {
+    color: #000000;
+    position: relative;
+    top: 8vh;
+    font-weight: 900;
+    font-size: 44px;
+}   
+.text-base {
+    font-size: 1.6rem;
+} 
+      
+        #cbox{
+
+           border-bottom: 2px;
+           border-left: 2px;
+    border-width: 1.5px;
+    border-radius: 6px;
+    box-shadow: 8px 8px 4px;
+    border-color: #000000;
+    text-shadow: 0px 0px;
+    color: black;
+}
+@media all and (max-width:786px){
+    .mr-5{
+        font-size: 17px;
+    }
+    .text-base {
+    font-size: 1.2rem;
+}
+
+.element {
+    
+    padding-left: 62px;
+    
+    width: 135%;
+    
+}
+.element >img{
+    border-radius: 6px;
+}
+.whats>img {
+    height: 28px;
+    width: 30px;
+    right: 8px;
+    top: 1px;
+    position: relative;
+}
+.phone>img {
+    height: 23px;
+    width: 29px;
+    top: 7px;
+    right: 2px;
+    position: relative;
+}
+.ml-3 {
+    margin-left: .75rem;
+    color: rgb(255 174 0);
+    font-weight: 600;
+    /* width: 123%; */
+    font-size: 24px;
+    position: relative;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+
+#fimg {
+    border: 3px solid black;
+    box-shadow: 4px 4px 5px;
+    transition: 5s;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    height: 24vh;
+    width: 300vh;
+}
+#smarthead {
+    color: #000000;
+    position: relative;
+    top: 0vh;
+    font-weight: 900;
+    font-size: 44px;
+}
+.scroll1{
+    font-size: 20px;
+}
+.back1{
+    height: 45px;
+}
+.mainded>img {
+    height: 126px;
+    width: 135px;
+    z-index: 100;
+}
+.mainded {
+    font-weight: 800;
+    opacity: 5;
+    position: relative;
+    top: -12vh;
+    right: -18vw;
+}
+#fimg {
+    border: 3px solid black;
+    box-shadow: 4px 4px 5px;
+    transition: 5s;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    height: 37vh;
+    width: 300vh;
+    position: relative;
+    left: 27px;
+    top: -70px;
+}
+.mainded>p {
+    text-align: center;
+    position: relative;
+    top: -3vh;
+    right: 23vw;
+    font-size: 16px;
+}
+
+#vision{
+            
+            font-size: 31px;
+            
+        }
+}
+    @media all and(max-width:420px)
+{
+    .element>img {
+    inline-size: 106%;
+    aspect-ratio: 9/15;
+    object-fit: cover;
+    padding: auto;
+    max-width: 200px;
+    border: solid;
+    border-width: 2px;
+   
+    width: 125%;
+    height: 100%;
+}
+}
+    </style>
+    <script type="text/javascript">
+        window.addEventListener('scroll', reveal);
+
+        function reveal() {
+            var reveals = document.querySelectorAll('.reveal');
+
+            for (var i = 0; i < reveals.length; i++) {
+
+                var windowheight = window.innerHeight;
+                var revealtop = reveals[i].getBoundingClientRect().top;
+                var revealpoint = 150;
+
+                if (revealtop < windowheight - revealpoint) {
+                    reveals[i].classList.add('active');
+                }
+                else {
+                    reveals[i].classList.remove('active');
+                }
+            }
+        }
+
+      /*  let image1 = document.getElementById('fimg')
+        let images1=['s1.jpeg','s2.jpeg','s3.jpeg','s4.jpeg','s51.png','s6.jpeg','s71.jpg','s8.jpg','s9.jpg']
+        setInterval(function(){
+            let random=Math.floor(Math.random()*9);
+            fimg.src=images1[random];
+        },2800)*/
+     
+    /*   let element = document.querySelector('#home');
+       let images1=["url('s1.jpeg')","url('s2.jpeg')","url('s3.jpeg')","url('s4.jpeg')","url('s51.png')","url('s6.jpeg')","url('s71.jpg')","url('s8.jpg')","url('s9.jpg')"]
+        let positions=[]
+        setInterval(function(){
+            let random=Math.floor(Math.random()*9);
+           for(var i=0; i<4; i++ ){
+        element.style.backgroundPosition ="100rem";
+        if(i==4){
+            i=0;
+        }
+    }
+    },2000)*/
+    var mainListDiv = document.getElementById("mainListDiv"),
+    mediaButton = document.getElementById("mediaButton");
+
+mediaButton.onclick = function () {
+    
+    "use strict";
+    
+    mainListDiv.classList.toggle("show_list");
+    mediaButton.classList.toggle("active");
+    
+};
+
+      
+    </script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</body>
+
+</html>
